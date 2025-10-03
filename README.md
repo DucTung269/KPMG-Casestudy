@@ -1,6 +1,6 @@
 # KPMG-Casestudy
 
-## [From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (02.06.2025 - 14.07.2025)]
+## From Data to Insight - Eine Case Study mit der SAP Analytics Cloud und KPMG (02.06.2025 - 14.07.2025)
 
 ### Case Study: E-Car Sales Data Processing and Visualization
 
