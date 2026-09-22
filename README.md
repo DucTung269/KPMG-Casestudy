@@ -42,7 +42,7 @@ This dashboard adds further detail by showing the **number of cars sold (45,319)
 This dashboard provides a **customer-centric view** of Fiara AG’s business in 2022.  It shows a total of **999 active customers** contributing to an overall order value of **€1.9 billion**.  The analysis includes:   **Customer segmentation** by country, **Customer type** (e.g., B2B),  **System landscape** (Microsoft, SAP).A **geographic map** highlights strong activity across European markets.  Additionally, detailed **customer transactions** are displayed, covering **product types and system affiliations**.  On the right, the **top 10 customers by order value** are listed, with **Zoe Ross** remaining the leading client.  
 
 
-![Produktübersicht](https://github.com/DucTung269/My-Portfolio/blob/main/Images/KPMG%20Produkt%C3%BCbersicht%204.png?raw=true)
+![Produktübersicht](https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/KPMG%20Produkt%C3%BCbersicht%204.png?raw=true)
 
 
 This dashboard focuses on product performance by comparing order values, variable costs, and contribution margins across different vehicle categories. Commercial vehicles and station wagons stand out with the highest sales and profitability, while compact and mini cars contribute significantly less in both revenue and margins. 
