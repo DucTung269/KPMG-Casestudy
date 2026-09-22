@@ -25,18 +25,18 @@ The processed data was presented in the form of an **interactive dashboard** usi
  
 ### Results Overview
 
-![Summery Dashboard](https://github.com/DucTung269/My-Portfolio/blob/main/Images/KPMG%20Summery%201.png?raw=true)
+![Summery Dashboard](https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/KPMG%20Summery%201.png?raw=true)
 
 This dashboard summarizes Fiara AG’s business results for 2022.  It highlights the **top 10 customers by order value**, with Zoe Ross as the largest contributor.  In total, the company recorded **1,497 orders** with a combined value of **€1.9 billion**.  The **geographic distribution** shows a strong concentration in **Europe**, with additional activity in North America and Asia.  A **time series analysis** of the contribution margin indicates significant fluctuations, with peaks in **March, July, and November**, reflecting seasonal or project-driven performance trends.  
 
 
-![Auftragswertübersicht](https://github.com/DucTung269/My-Portfolio/blob/main/Images/KPMG%20Auftragswert%C3%BCbersicht%202.png?raw=true)
+![Auftragswertübersicht](https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/KPMG%20Auftragswert%C3%BCbersicht%202.png?raw=true)
 
 
 This dashboard adds further detail by showing the **number of cars sold (45,319)** and highlighting financial aspects such as **delivery conditions (€26.7M)** and **price conditions (€30.6M)**.  It also provides a **month-by-month breakdown of order values**, with the strongest performance in **October (€219M)** and the weakest in **December (€92M)**.  Additionally, a detailed **order list with customer IDs, names, and tax information** offers transparency at the transaction level.  
 
 
-![Kundenübersicht](https://github.com/DucTung269/My-Portfolio/blob/main/Images/KPMG%20Kunden%C3%BCbersicht%203%20.png?raw=true)
+![Kundenübersicht](https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/KPMG%20Kunden%C3%BCbersicht%203%20.png?raw=true)
 
 
 This dashboard provides a **customer-centric view** of Fiara AG’s business in 2022.  It shows a total of **999 active customers** contributing to an overall order value of **€1.9 billion**.  The analysis includes:   **Customer segmentation** by country, **Customer type** (e.g., B2B),  **System landscape** (Microsoft, SAP).A **geographic map** highlights strong activity across European markets.  Additionally, detailed **customer transactions** are displayed, covering **product types and system affiliations**.  On the right, the **top 10 customers by order value** are listed, with **Zoe Ross** remaining the leading client.  
