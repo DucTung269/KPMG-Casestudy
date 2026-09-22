@@ -48,7 +48,7 @@ This dashboard provides a **customer-centric view** of Fiara AG’s business in 
 This dashboard focuses on product performance by comparing order values, variable costs, and contribution margins across different vehicle categories. Commercial vehicles and station wagons stand out with the highest sales and profitability, while compact and mini cars contribute significantly less in both revenue and margins. 
 
 
-![Marktübersicht](https://github.com/DucTung269/My-Portfolio/blob/main/Images/KPMG%20Markt%C3%BCbersicht%205.png?raw=true)
+![Marktübersicht](https://github.com/DucTung269/KPMG-Casestudy/blob/main/image/KPMG%20Markt%C3%BCbersicht%205.png?raw=true)
 
 
 
